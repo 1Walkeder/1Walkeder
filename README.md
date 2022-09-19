@@ -1,10 +1,10 @@
 ### Hi there 👋
-[![walkeder's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=1Walkeder&hide_border=true&theme=redical)](https://github.com/1Walkeder)
-<div id="wrp" align="center">
 
+<div id="wrp" align="center">
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5dLoIhuX12Nl1MnQJ1/giphy.gif" alt="#" width="250">
 </div>
+  <hr>
 <div id="badges" style="display:flex, justify-content:center">
   <a href="https://t.me/Andferston">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -16,6 +16,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="300" height="300"/>
 </div>
+  <hr>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
