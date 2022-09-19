@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<div id="wrp" align="center">
-<div align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="300" height="300"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&duration=4000&color=FF3BA2&center=true&vCenter=true&multiline=true&width=2000&height=400&lines=My+name+is+Andrey;I+am+a+Frontend+JavaScript+developer)](https://github.com/1Walkeder)
 <div id="badges" style="display:flex, justify-content:center">
   <a href="https://t.me/Andferston">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -22,7 +19,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  
-</div>
 </div>
 
