@@ -7,7 +7,7 @@
   <a href="https://t.me/Andferston">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="mailto:walkeder@gmail.com?cc=walkeder@gmail.com&bcc=walkeder@gmail.com&subject=Subject Using Mailto.co.uk&body=Email Using Body">
+  <a href="mailto:walkeder@gmail.com?subject=subject&cc=walkeder@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
 </div>
