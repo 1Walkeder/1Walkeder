@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <div id="wrp" align="center">
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/5dLoIhuX12Nl1MnQJ1/giphy.gif" alt="#" width="250">
+<div align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="300" height="300"/>
 </div>
 <div id="badges" style="display:flex, justify-content:center">
   <a href="https://t.me/Andferston">
@@ -11,9 +11,6 @@
   <a href="mailto:walkeder@gmail.com?subject=subject&cc=walkeder@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="300" height="300"/>
 </div>
   <hr>
 <div>
