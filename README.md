@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&duration=4000&color=FF3BA2&center=true&vCenter=true&multiline=true&width=2000&height=400&lines=My+name+is+Andrey;I+am+a+Frontend+JavaScript+developer)](https://github.com/1Walkeder)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&duration=3500&pause=1500&color=443FF7&background=000000FB&width=435&lines=My+name+is+Darsen;I+am+a+Frontend+JavaScript+developer)](https://github.com/1Walkeder)
 <div id="badges" style="display:flex, justify-content:center">
   <a href="https://t.me/Andferston">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
