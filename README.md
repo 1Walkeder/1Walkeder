@@ -7,7 +7,7 @@
   <a href="https://t.me/Andferston">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="[https://mail.google.com/mail/u/0/#all?compose=GTvVlcRwQLwMXCjmNXkfNBQmPkrMpVBtNDnTLSDpmhsgkbtnDdSKvmnnwqmrtsVwrJhJfBqQmKdvh](https://mail.google.com/mail/u/0/#all?compose=DmwnWsmBGvSvCshrlfrmpKfnRvfHTZtJswKKWRKcFzTNXbjhWzRCKQSKkDHzsQlSKNcvbgkBsHtb)">
+  <a href="[https://mail.google.com/mail/walkeder](https://mail.google.com/mail/u/0/#all?compose=DmwnWsmBGvSvCshrlfrmpKfnRvfHTZtJswKKWRKcFzTNXbjhWzRCKQSKkDHzsQlSKNcvbgkBsHtb)">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
 </div>
