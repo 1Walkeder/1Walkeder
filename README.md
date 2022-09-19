@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&duration=8000&pause=20&color=443FF7&center=true&vCenter=true&width=1800&height=500&lines=Hi+there+ 👋;My+name+is+Andrey;I+am+a+Frontend+JavaScript+developer)](https://github.com/1Walkeder)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&duration=8000&pause=20&color=443FF7&center=true&vCenter=true&width=1800&height=500&lines=Hi+there+👋;My+name+is+Andrey;I+am+a+Frontend+JavaScript+developer)](https://github.com/1Walkeder)
 <div id="badges" style="display:flex, justify-content:center">
   <a href="https://t.me/Andferston">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -19,4 +19,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-👋👋👋
