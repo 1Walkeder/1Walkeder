@@ -1,5 +1,7 @@
 ### Hi there 👋
+[![walkeder's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=1Walkeder&hide_border=true&theme=redical)](https://github.com/1Walkeder)
 <div id="wrp" align="center">
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5dLoIhuX12Nl1MnQJ1/giphy.gif" alt="#" width="250">
 </div>
