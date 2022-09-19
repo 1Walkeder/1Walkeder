@@ -1,5 +1,5 @@
 ### Hi there 👋
- 
+<div id="wrp" align="center">
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5dLoIhuX12Nl1MnQJ1/giphy.gif" alt="#" width="250">
 </div>
@@ -7,7 +7,7 @@
   <a href="https://t.me/Andferston">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="[walkeder@gmail.com](https://mail.google.com/mail/u/0/#inbox)">
+  <a href="walkeder@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
 </div>
@@ -23,5 +23,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 </div>
 
